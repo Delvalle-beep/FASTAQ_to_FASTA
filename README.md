@@ -1,4 +1,4 @@
-#.fastaq.gz to .fasta file converter
+<h1>.fastaq.gz to .fasta file converter</h1>
 
 This is a project developed in Python with the sys, gzip and biopython libraries. The script is capable of converting .fastaq.gz files to .fasta.
 
